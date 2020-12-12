@@ -162,7 +162,7 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  color: #ca5a3b;
   text-decoration: none;
   background-color: transparent;
 }
@@ -3958,6 +3958,10 @@ input[type=button].btn-block {
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+}
+.navbar-nav ml-auto my-2 my-lg-0{
+  font-size: 20px;
+  color: #0b2e13;
 }
 .navbar .container,
 .navbar .container-fluid,
