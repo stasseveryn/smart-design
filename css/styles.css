@@ -72,7 +72,11 @@ body {
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
-
+.logo {
+  background-image: url(../assets/img/logo-best-two.png) 100% cover/ no-repeat;
+  width:80px;
+  height: 60px;
+}
 hr {
   box-sizing: content-box;
   height: 0;
