@@ -73,9 +73,7 @@ body {
   outline: 0 !important;
 }
 .logo {
-  background-image: url(../assets/img/logo-best-two.png) 100% cover/ no-repeat;
-  width:80px;
-  height: 60px;
+margin-right: 25px;
 }
 hr {
   box-sizing: content-box;
@@ -10079,7 +10077,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/background-start.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(126, 108, 96, 0.445) 100%), url("../img/background-start.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;                        
