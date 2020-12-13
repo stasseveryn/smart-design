@@ -6395,11 +6395,12 @@ a.bg-light:hover, a.bg-light:focus, button.bg-light:hover, button.bg-light:focus
 }
 
 .bg-dark {
-    background-color: #343a40 !important;
+    background-image: url(../img/gallery-green-leaves.jpg) ;
+    background-size:cover;
 }
 
 a.bg-dark:hover, a.bg-dark:focus, button.bg-dark:hover, button.bg-dark:focus {
-    background-color: #1d2124 !important;
+    background-image: url(../img/black-kitchen.jpg);
 }
 
 .bg-white {
